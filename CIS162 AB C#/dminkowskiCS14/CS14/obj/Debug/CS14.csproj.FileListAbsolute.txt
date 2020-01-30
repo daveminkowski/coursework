@@ -1,0 +1,24 @@
+D:\Google Drive\School\_Projects\CS14\obj\Debug\CS14.csprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\CS14\obj\Debug\CS14.frmChild1.resources
+D:\Google Drive\School\_Projects\CS14\obj\Debug\CS14.frmMain.resources
+D:\Google Drive\School\_Projects\CS14\obj\Debug\CS14.Properties.Resources.resources
+D:\Google Drive\School\_Projects\CS14\obj\Debug\CS14.csproj.GenerateResource.Cache
+D:\Google Drive\School\_Projects\CS14\obj\Debug\CS14.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\CS14\bin\Debug\CS14.exe.config
+D:\Google Drive\School\_Projects\CS14\bin\Debug\CS14.exe
+D:\Google Drive\School\_Projects\CS14\bin\Debug\CS14.pdb
+D:\Google Drive\School\_Projects\CS14\obj\Debug\CS14.exe
+D:\Google Drive\School\_Projects\CS14\obj\Debug\CS14.pdb
+D:\Google Drive\School\_Projects\CS14\obj\Debug\CS14.frmChild2.resources
+D:\Dave's Stuff\School\CIS162 CSHARP\C#\dminkowskiCS14\CS14\bin\Debug\CS14.exe.config
+D:\Dave's Stuff\School\CIS162 CSHARP\C#\dminkowskiCS14\CS14\bin\Debug\CS14.exe
+D:\Dave's Stuff\School\CIS162 CSHARP\C#\dminkowskiCS14\CS14\bin\Debug\CS14.pdb
+D:\Dave's Stuff\School\CIS162 CSHARP\C#\dminkowskiCS14\CS14\obj\Debug\CS14.csprojAssemblyReference.cache
+D:\Dave's Stuff\School\CIS162 CSHARP\C#\dminkowskiCS14\CS14\obj\Debug\CS14.frmChild1.resources
+D:\Dave's Stuff\School\CIS162 CSHARP\C#\dminkowskiCS14\CS14\obj\Debug\CS14.frmChild2.resources
+D:\Dave's Stuff\School\CIS162 CSHARP\C#\dminkowskiCS14\CS14\obj\Debug\CS14.frmMain.resources
+D:\Dave's Stuff\School\CIS162 CSHARP\C#\dminkowskiCS14\CS14\obj\Debug\CS14.Properties.Resources.resources
+D:\Dave's Stuff\School\CIS162 CSHARP\C#\dminkowskiCS14\CS14\obj\Debug\CS14.csproj.GenerateResource.cache
+D:\Dave's Stuff\School\CIS162 CSHARP\C#\dminkowskiCS14\CS14\obj\Debug\CS14.csproj.CoreCompileInputs.cache
+D:\Dave's Stuff\School\CIS162 CSHARP\C#\dminkowskiCS14\CS14\obj\Debug\CS14.exe
+D:\Dave's Stuff\School\CIS162 CSHARP\C#\dminkowskiCS14\CS14\obj\Debug\CS14.pdb

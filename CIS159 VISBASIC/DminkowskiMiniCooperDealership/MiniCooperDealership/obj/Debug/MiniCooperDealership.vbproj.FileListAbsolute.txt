@@ -1,0 +1,39 @@
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\bin\Debug\MiniCooperDealership.exe.config
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\bin\Debug\MiniCooperDealership.exe
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\bin\Debug\MiniCooperDealership.pdb
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\bin\Debug\MiniCooperDealership.xml
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.vbprojResolveAssemblyReference.cache
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.frmMain.resources
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.Resources.resources
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.vbproj.GenerateResource.Cache
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.vbproj.CoreCompileInputs.cache
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.exe
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.xml
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.pdb
+D:\Google Drive\School\_Projects\MiniCooperDealership\bin\Debug\MiniCooperDealership.exe.config
+D:\Google Drive\School\_Projects\MiniCooperDealership\bin\Debug\MiniCooperDealership.exe
+D:\Google Drive\School\_Projects\MiniCooperDealership\bin\Debug\MiniCooperDealership.pdb
+D:\Google Drive\School\_Projects\MiniCooperDealership\bin\Debug\MiniCooperDealership.xml
+D:\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.vbprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.frmMain.resources
+D:\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.Resources.resources
+D:\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.vbproj.GenerateResource.Cache
+D:\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.vbproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.exe
+D:\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.xml
+D:\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.pdb
+C:\Users\Wedge\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.frmInventory.resources
+D:\Google Drive\School\_Projects\MiniCooperDealership\obj\Debug\MiniCooperDealership.frmInventory.resources
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\bin\Debug\MiniCooperDealership.exe.config
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\bin\Debug\MiniCooperDealership.exe
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\bin\Debug\MiniCooperDealership.pdb
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\bin\Debug\MiniCooperDealership.xml
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\obj\Debug\MiniCooperDealership.vbprojAssemblyReference.cache
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\obj\Debug\MiniCooperDealership.frmInventory.resources
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\obj\Debug\MiniCooperDealership.frmMain.resources
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\obj\Debug\MiniCooperDealership.Resources.resources
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\obj\Debug\MiniCooperDealership.vbproj.GenerateResource.cache
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\obj\Debug\MiniCooperDealership.vbproj.CoreCompileInputs.cache
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\obj\Debug\MiniCooperDealership.exe
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\obj\Debug\MiniCooperDealership.xml
+D:\Dave's Stuff\School\CIS159 VISBASIC\VisualBasic\DminkowskiMiniCooperDealership\MiniCooperDealership\obj\Debug\MiniCooperDealership.pdb

@@ -1,0 +1,9 @@
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS1\obj\Debug\CS1.Properties.Resources.resources
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS1\bin\Debug\CS1.exe
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS1\bin\Debug\CS1.pdb
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS1\obj\Debug\CS1.exe
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS1\obj\Debug\CS1.pdb
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS1\obj\Debug\CS1.CS1Form.resources
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS1\obj\Debug\GenerateResource-ResGen.write.1.tlog

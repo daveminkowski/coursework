@@ -1,0 +1,6 @@
+D:\Google Drive\School\_Projects\Lesson2Project\Lesson2Project\bin\Debug\Lesson2Project.exe.config
+D:\Google Drive\School\_Projects\Lesson2Project\Lesson2Project\bin\Debug\Lesson2Project.exe
+D:\Google Drive\School\_Projects\Lesson2Project\Lesson2Project\bin\Debug\Lesson2Project.pdb
+D:\Google Drive\School\_Projects\Lesson2Project\Lesson2Project\obj\Debug\Lesson2Project.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\Lesson2Project\Lesson2Project\obj\Debug\Lesson2Project.exe
+D:\Google Drive\School\_Projects\Lesson2Project\Lesson2Project\obj\Debug\Lesson2Project.pdb

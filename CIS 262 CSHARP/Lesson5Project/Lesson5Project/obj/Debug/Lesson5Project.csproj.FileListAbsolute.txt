@@ -1,0 +1,14 @@
+D:\Google Drive\School\_Projects\Lesson5Project\Lesson5Project\bin\Debug\Lesson5Project.exe.config
+D:\Google Drive\School\_Projects\Lesson5Project\Lesson5Project\bin\Debug\Lesson5Project.exe
+D:\Google Drive\School\_Projects\Lesson5Project\Lesson5Project\bin\Debug\Lesson5Project.pdb
+D:\Google Drive\School\_Projects\Lesson5Project\Lesson5Project\obj\Debug\Lesson5Project.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\Lesson5Project\Lesson5Project\obj\Debug\Lesson5Project.exe
+D:\Google Drive\School\_Projects\Lesson5Project\Lesson5Project\obj\Debug\Lesson5Project.pdb
+D:\Google Drive\School\_Projects\Lesson5Project\Lesson5Project\obj\Debug\Lesson5Project.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\Lesson5Project\Lesson5Project\bin\Debug\Lesson5Project.exe.config
+C:\Users\Dave\Desktop\Lesson5Project\Lesson5Project\bin\Debug\Lesson5Project.exe
+C:\Users\Dave\Desktop\Lesson5Project\Lesson5Project\bin\Debug\Lesson5Project.pdb
+C:\Users\Dave\Desktop\Lesson5Project\Lesson5Project\obj\Debug\Lesson5Project.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\Lesson5Project\Lesson5Project\obj\Debug\Lesson5Project.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Desktop\Lesson5Project\Lesson5Project\obj\Debug\Lesson5Project.exe
+C:\Users\Dave\Desktop\Lesson5Project\Lesson5Project\obj\Debug\Lesson5Project.pdb

@@ -1,0 +1,48 @@
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\obj\Debug\Lesson8.Dal.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\obj\Debug\Lesson8.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\bin\Debug\Lesson8.Dal.dll.config
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\bin\Debug\Lesson8.Dal.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\bin\Debug\Lesson8.Dal.pdb
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\bin\Debug\EntityFramework.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\bin\Debug\EntityFramework.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\obj\Debug\Lesson8.Dal.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8.Dal\obj\Debug\Lesson8.Dal.pdb
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\bin\Debug\Lesson8.Dal.dll.config
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\bin\Debug\Lesson8.Dal.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\bin\Debug\Lesson8.Dal.pdb
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\bin\Debug\EntityFramework.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\bin\Debug\EntityFramework.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.dll.config
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\obj\Debug\Lesson8.Dal.csprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\obj\Debug\Lesson8.Dal.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\obj\Debug\Lesson8.Dal.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8.Dal\obj\Debug\Lesson8.Dal.pdb
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\bin\Debug\Lesson8.Dal.dll.config
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\bin\Debug\Lesson8.Dal.dll
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\bin\Debug\Lesson8.Dal.pdb
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\bin\Debug\EntityFramework.dll
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.dll
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\bin\Debug\EntityFramework.xml
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.xml
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\bin\Debug\System.Data.SQLite.dll.config
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\obj\Debug\Lesson8.Dal.csprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\obj\Debug\Lesson8.Dal.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\obj\Debug\Lesson8.Dal.dll
+D:\Google Drive\School\_Projects\Lesson9Project\Lesson8.Dal\obj\Debug\Lesson8.Dal.pdb

@@ -1,0 +1,11 @@
+D:\Google Drive\School\_Projects\CS13\bin\Debug\CS13.exe.config
+D:\Google Drive\School\_Projects\CS13\bin\Debug\CS13.exe
+D:\Google Drive\School\_Projects\CS13\bin\Debug\CS13.pdb
+D:\Google Drive\School\_Projects\CS13\obj\Debug\CS13.csprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\CS13\obj\Debug\CS13.frmCS13A.resources
+D:\Google Drive\School\_Projects\CS13\obj\Debug\CS13.Properties.Resources.resources
+D:\Google Drive\School\_Projects\CS13\obj\Debug\CS13.csproj.GenerateResource.Cache
+D:\Google Drive\School\_Projects\CS13\obj\Debug\CS13.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\CS13\obj\Debug\CS13.exe
+D:\Google Drive\School\_Projects\CS13\obj\Debug\CS13.pdb
+D:\Google Drive\School\_Projects\CS13\obj\Debug\CS13.frmCS13B.resources

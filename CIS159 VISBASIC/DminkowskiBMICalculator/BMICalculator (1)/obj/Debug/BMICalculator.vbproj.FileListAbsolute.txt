@@ -1,0 +1,25 @@
+C:\Users\Wedge\Google Drive\School\_Projects\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\Wedge\Google Drive\School\_Projects\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\Wedge\Google Drive\School\_Projects\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\Wedge\Google Drive\School\_Projects\BMICalculator\bin\Debug\BMICalculator.xml
+C:\Users\Wedge\Google Drive\School\_Projects\BMICalculator\obj\Debug\BMICalculator.vbprojResolveAssemblyReference.cache
+C:\Users\Wedge\Google Drive\School\_Projects\BMICalculator\obj\Debug\BMICalculator.frmBMICalc.resources
+C:\Users\Wedge\Google Drive\School\_Projects\BMICalculator\obj\Debug\BMICalculator.Resources.resources
+C:\Users\Wedge\Google Drive\School\_Projects\BMICalculator\obj\Debug\BMICalculator.vbproj.GenerateResource.Cache
+C:\Users\Wedge\Google Drive\School\_Projects\BMICalculator\obj\Debug\BMICalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Wedge\Google Drive\School\_Projects\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\Wedge\Google Drive\School\_Projects\BMICalculator\obj\Debug\BMICalculator.xml
+C:\Users\Wedge\Google Drive\School\_Projects\BMICalculator\obj\Debug\BMICalculator.pdb
+D:\Google Drive\School\_Projects\BMICalculator (1)\bin\Debug\BMICalculator.exe.config
+D:\Google Drive\School\_Projects\BMICalculator (1)\bin\Debug\BMICalculator.exe
+D:\Google Drive\School\_Projects\BMICalculator (1)\bin\Debug\BMICalculator.pdb
+D:\Google Drive\School\_Projects\BMICalculator (1)\bin\Debug\BMICalculator.xml
+D:\Google Drive\School\_Projects\BMICalculator (1)\obj\Debug\BMICalculator.vbprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\BMICalculator (1)\obj\Debug\BMICalculator.frmBMICalc.resources
+D:\Google Drive\School\_Projects\BMICalculator (1)\obj\Debug\BMICalculator.Resources.resources
+D:\Google Drive\School\_Projects\BMICalculator (1)\obj\Debug\BMICalculator.vbproj.GenerateResource.Cache
+D:\Google Drive\School\_Projects\BMICalculator (1)\obj\Debug\BMICalculator.vbproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\BMICalculator (1)\obj\Debug\BMICalculator.exe
+D:\Google Drive\School\_Projects\BMICalculator (1)\obj\Debug\BMICalculator.xml
+D:\Google Drive\School\_Projects\BMICalculator (1)\obj\Debug\BMICalculator.pdb
+D:\Google Drive\School\_Projects\BMICalculator (1)\obj\Debug\BMICalculator.BMICalcSplash.resources

@@ -1,0 +1,42 @@
+﻿@model Lesson8Project.Models.AllCustomersModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<table>
+    <tr>
+        <th>
+            Customer Id
+        </th>
+        <th>
+            First Name
+        </th>
+        <th>
+            Last Name
+        </th>
+    </tr>
+    @foreach (Lesson8Project.Models.CustomerModel customer in Model.Customers)
+    {
+        <tr>
+            <td>
+                @customer.CustomerId
+            </td>
+            <td>
+                @customer.FirstName
+            </td>
+            <td>
+                @customer.LastName
+            </td>
+            <td>
+                @customer.Country
+            </td>
+            <td>
+                @customer.Email
+            </td>
+        </tr>
+    }
+</table>
+
+
+

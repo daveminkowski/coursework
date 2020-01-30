@@ -1,0 +1,12 @@
+C:\Users\Wedge\Google Drive\School\_Projects\ComicConvention\bin\Debug\ComicConvention.exe.config
+C:\Users\Wedge\Google Drive\School\_Projects\ComicConvention\bin\Debug\ComicConvention.exe
+C:\Users\Wedge\Google Drive\School\_Projects\ComicConvention\bin\Debug\ComicConvention.pdb
+C:\Users\Wedge\Google Drive\School\_Projects\ComicConvention\bin\Debug\ComicConvention.xml
+C:\Users\Wedge\Google Drive\School\_Projects\ComicConvention\obj\Debug\ComicConvention.vbprojResolveAssemblyReference.cache
+C:\Users\Wedge\Google Drive\School\_Projects\ComicConvention\obj\Debug\ComicConvention.frmComicConvention.resources
+C:\Users\Wedge\Google Drive\School\_Projects\ComicConvention\obj\Debug\ComicConvention.Resources.resources
+C:\Users\Wedge\Google Drive\School\_Projects\ComicConvention\obj\Debug\ComicConvention.vbproj.GenerateResource.Cache
+C:\Users\Wedge\Google Drive\School\_Projects\ComicConvention\obj\Debug\ComicConvention.vbproj.CoreCompileInputs.cache
+C:\Users\Wedge\Google Drive\School\_Projects\ComicConvention\obj\Debug\ComicConvention.exe
+C:\Users\Wedge\Google Drive\School\_Projects\ComicConvention\obj\Debug\ComicConvention.xml
+C:\Users\Wedge\Google Drive\School\_Projects\ComicConvention\obj\Debug\ComicConvention.pdb

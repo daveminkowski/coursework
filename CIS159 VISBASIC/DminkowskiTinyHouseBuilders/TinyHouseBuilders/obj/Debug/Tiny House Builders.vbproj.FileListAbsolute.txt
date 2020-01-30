@@ -1,0 +1,24 @@
+D:\Google Drive\School\_Projects\Tiny House Builders\bin\Debug\Tiny House Builders.exe.config
+D:\Google Drive\School\_Projects\Tiny House Builders\bin\Debug\Tiny House Builders.exe
+D:\Google Drive\School\_Projects\Tiny House Builders\bin\Debug\Tiny House Builders.pdb
+D:\Google Drive\School\_Projects\Tiny House Builders\bin\Debug\Tiny House Builders.xml
+D:\Google Drive\School\_Projects\Tiny House Builders\obj\Debug\Tiny House Builders.vbprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\Tiny House Builders\obj\Debug\Tiny_House_Builders.frmTinyHouse.resources
+D:\Google Drive\School\_Projects\Tiny House Builders\obj\Debug\Tiny_House_Builders.Resources.resources
+D:\Google Drive\School\_Projects\Tiny House Builders\obj\Debug\Tiny House Builders.vbproj.GenerateResource.Cache
+D:\Google Drive\School\_Projects\Tiny House Builders\obj\Debug\Tiny House Builders.vbproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\Tiny House Builders\obj\Debug\Tiny House Builders.exe
+D:\Google Drive\School\_Projects\Tiny House Builders\obj\Debug\Tiny House Builders.xml
+D:\Google Drive\School\_Projects\Tiny House Builders\obj\Debug\Tiny House Builders.pdb
+D:\Google Drive\School\_Projects\_Completed Projects\TinyHouseBuilders\bin\Debug\Tiny House Builders.exe.config
+D:\Google Drive\School\_Projects\_Completed Projects\TinyHouseBuilders\bin\Debug\Tiny House Builders.exe
+D:\Google Drive\School\_Projects\_Completed Projects\TinyHouseBuilders\bin\Debug\Tiny House Builders.pdb
+D:\Google Drive\School\_Projects\_Completed Projects\TinyHouseBuilders\bin\Debug\Tiny House Builders.xml
+D:\Google Drive\School\_Projects\_Completed Projects\TinyHouseBuilders\obj\Debug\Tiny House Builders.vbprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\_Completed Projects\TinyHouseBuilders\obj\Debug\Tiny_House_Builders.frmTinyHouse.resources
+D:\Google Drive\School\_Projects\_Completed Projects\TinyHouseBuilders\obj\Debug\Tiny_House_Builders.Resources.resources
+D:\Google Drive\School\_Projects\_Completed Projects\TinyHouseBuilders\obj\Debug\Tiny House Builders.vbproj.GenerateResource.Cache
+D:\Google Drive\School\_Projects\_Completed Projects\TinyHouseBuilders\obj\Debug\Tiny House Builders.vbproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\_Completed Projects\TinyHouseBuilders\obj\Debug\Tiny House Builders.exe
+D:\Google Drive\School\_Projects\_Completed Projects\TinyHouseBuilders\obj\Debug\Tiny House Builders.xml
+D:\Google Drive\School\_Projects\_Completed Projects\TinyHouseBuilders\obj\Debug\Tiny House Builders.pdb

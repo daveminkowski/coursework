@@ -1,0 +1,58 @@
+﻿@model Project6.Models.CustomerModel
+
+@{
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Success</title>
+</head>
+<body>
+    <div>
+        <h4>Success!</h4>
+        <hr />
+        <h2>Thank you! Your entries for: </h2>
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.FirstName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.LastName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.LastName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.BusinessName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.BusinessName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ProjectCost)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ProjectCost)
+            </dd>
+    
+        </dl>
+        <h2>Have been successfully entered into the database. </h2>
+    </div>
+    <p>
+        @Html.ActionLink("Back to Input Form", "CreateCustomer")
+    </p>
+</body>
+</html>

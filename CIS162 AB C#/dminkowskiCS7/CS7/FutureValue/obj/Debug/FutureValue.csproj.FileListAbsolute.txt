@@ -1,0 +1,17 @@
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS6\FutureValue\bin\Debug\FutureValue.exe
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS6\FutureValue\bin\Debug\FutureValue.pdb
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS6\FutureValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS6\FutureValue\obj\Debug\FutureValue.CS6Form.resources
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS6\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS6\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.Cache
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS6\FutureValue\obj\Debug\FutureValue.exe
+C:\Marquez\web_marquez\cis162ad\workspace_2008\CS6\FutureValue\obj\Debug\FutureValue.pdb
+C:\Users\Wedge\Google Drive\School\_Projects\CS7\FutureValue\bin\Debug\FutureValue.exe
+C:\Users\Wedge\Google Drive\School\_Projects\CS7\FutureValue\bin\Debug\FutureValue.pdb
+C:\Users\Wedge\Google Drive\School\_Projects\CS7\FutureValue\obj\Debug\FutureValue.csprojResolveAssemblyReference.cache
+C:\Users\Wedge\Google Drive\School\_Projects\CS7\FutureValue\obj\Debug\FutureValue.CS7Form.resources
+C:\Users\Wedge\Google Drive\School\_Projects\CS7\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\Users\Wedge\Google Drive\School\_Projects\CS7\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.Cache
+C:\Users\Wedge\Google Drive\School\_Projects\CS7\FutureValue\obj\Debug\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\Wedge\Google Drive\School\_Projects\CS7\FutureValue\obj\Debug\FutureValue.exe
+C:\Users\Wedge\Google Drive\School\_Projects\CS7\FutureValue\obj\Debug\FutureValue.pdb

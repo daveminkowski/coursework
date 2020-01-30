@@ -1,0 +1,57 @@
+﻿@model Final_Project.Models.AllTeachersModel
+@{
+    ViewBag.Title = "Faculty";
+}
+
+<h2>View Teachers</h2>
+<a href="/Teacher/Add">Add a Teacher</a>
+<br />
+<br />
+
+<table>
+    <tr>
+        <th>
+            Teacher Id&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            First Name&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            Last Name&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            Edit Teacher&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            Delete Teacher
+        </th>
+    </tr>
+    @foreach (Final_Project.Models.TeacherModel teacher in Model.Teachers)
+    {
+        <tr>
+            <td>
+                @teacher.TeacherId
+            </td>
+            <td>
+                @teacher.FirstName
+            </td>
+            <td>
+                @teacher.LastName
+            </td>
+            <td>
+                <a href="/Teacher/Edit?TeacherId=@teacher.TeacherId">Edit</a>
+            </td>
+            <td>
+                <a href="/Teacher/Delete?TeacherId=@teacher.TeacherId">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<br />
+<div>
+    <a href="@Request.UrlReferrer" class="btn btn-default btn-lg" title="Back to Previous Page">
+        <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span>
+    </a>
+</div>
+

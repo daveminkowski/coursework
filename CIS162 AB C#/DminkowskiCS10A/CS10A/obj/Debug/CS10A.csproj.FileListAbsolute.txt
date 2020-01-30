@@ -1,0 +1,11 @@
+D:\Google Drive\School\_Projects\CS10A\bin\Debug\CS10A.exe.config
+D:\Google Drive\School\_Projects\CS10A\bin\Debug\CS10A.exe
+D:\Google Drive\School\_Projects\CS10A\bin\Debug\CS10A.pdb
+D:\Google Drive\School\_Projects\CS10A\obj\Debug\CS10A.csprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\CS10A\obj\Debug\CS10A.frmAbout.resources
+D:\Google Drive\School\_Projects\CS10A\obj\Debug\CS10A.frmBookList.resources
+D:\Google Drive\School\_Projects\CS10A\obj\Debug\CS10A.Properties.Resources.resources
+D:\Google Drive\School\_Projects\CS10A\obj\Debug\CS10A.csproj.GenerateResource.Cache
+D:\Google Drive\School\_Projects\CS10A\obj\Debug\CS10A.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\CS10A\obj\Debug\CS10A.exe
+D:\Google Drive\School\_Projects\CS10A\obj\Debug\CS10A.pdb

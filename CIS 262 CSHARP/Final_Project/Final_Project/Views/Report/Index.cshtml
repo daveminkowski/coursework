@@ -1,0 +1,74 @@
+﻿@using Final_Project.Models
+@model ReportModel
+@{
+    ViewBag.Title = "All Exam Scores";
+}
+
+<h2>Final Exam Grade Report</h2>
+<div id="chartcontainer"></div>
+
+@section Scripts
+{
+    <script src="http://cdn.syncfusion.com/js/assets/external/jquery-1.10.2.min.js"></script>
+    <!-- Essential JS UI widget -->
+    <script src="http://cdn.syncfusion.com/14.3.0.49/js/web/ej.web.all.min.js "></script>
+
+    <script type="text/javascript">
+
+        var data = @Html.Raw(Json.Encode(Model.ReportRows));
+
+
+        $(function () {
+            $('#chartcontainer').ejChart({
+                series: [{
+                    dataSource: data,
+                    xName: 'LastName',
+                    yName: 'Score',
+                    name: 'Highest Exam Grade (Semester)',
+                }],
+                primaryXAxis:
+                {
+                    title: { text: 'Student' },
+                    labelRotation : 90,
+                    labelFormat:"{value}",
+                },
+                primaryYAxis: {
+                },
+                commonSeriesOptions:
+                {
+                    type: 'bar',
+                    fill: "#005277",
+                    enableAnimation: true,
+                    tooltip:{visible:true, format: "#point.y#"},
+                },
+            });
+        });
+    </script>
+}
+<h2>Full Semester Exam Report</h2>
+
+<table>
+    <tr>
+        <th>Student ID</th>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Exam Score</th>
+        <th>Letter Grade</th>
+    </tr>
+
+@foreach (var row in Model.ReportRows)
+    { 
+        <tr>
+            <td>@row.StudentId</td>
+            <td>@row.FirstName</td>
+            <td>@row.LastName</td>
+            <td>@row.Score</td>
+            <td>@row.LetterGrade</td>
+        </tr>
+    }
+</table>
+<br />
+<a href="javascript:history.back()">Previous Page</a>
+
+
+

@@ -1,0 +1,19 @@
+D:\Google Drive\School\_Projects\Lesson1Project\Lesson1Project\obj\Debug\Lesson1Project.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\Lesson1Project\Lesson1Project\bin\Debug\Lesson1Project.exe.config
+D:\Google Drive\School\_Projects\Lesson1Project\Lesson1Project\bin\Debug\Lesson1Project.exe
+D:\Google Drive\School\_Projects\Lesson1Project\Lesson1Project\bin\Debug\Lesson1Project.pdb
+D:\Google Drive\School\_Projects\Lesson1Project\Lesson1Project\obj\Debug\Lesson1Project.exe
+D:\Google Drive\School\_Projects\Lesson1Project\Lesson1Project\obj\Debug\Lesson1Project.pdb
+D:\Google Drive\School\_Projects\Lesson1Project\Lesson1Project\obj\Debug\Lesson1Project.csprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\_Completed Projects\C#2Lesson1\Lesson1Project\bin\Debug\Lesson1Project.exe.config
+D:\Google Drive\School\_Projects\_Completed Projects\C#2Lesson1\Lesson1Project\bin\Debug\Lesson1Project.exe
+D:\Google Drive\School\_Projects\_Completed Projects\C#2Lesson1\Lesson1Project\bin\Debug\Lesson1Project.pdb
+D:\Google Drive\School\_Projects\_Completed Projects\C#2Lesson1\Lesson1Project\obj\Debug\Lesson1Project.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\_Completed Projects\C#2Lesson1\Lesson1Project\obj\Debug\Lesson1Project.exe
+D:\Google Drive\School\_Projects\_Completed Projects\C#2Lesson1\Lesson1Project\obj\Debug\Lesson1Project.pdb
+D:\Dave's Stuff\School\CIS 262 CSHARP\Lesson1Project\Lesson1Project\bin\Debug\Lesson1Project.exe.config
+D:\Dave's Stuff\School\CIS 262 CSHARP\Lesson1Project\Lesson1Project\bin\Debug\Lesson1Project.exe
+D:\Dave's Stuff\School\CIS 262 CSHARP\Lesson1Project\Lesson1Project\bin\Debug\Lesson1Project.pdb
+D:\Dave's Stuff\School\CIS 262 CSHARP\Lesson1Project\Lesson1Project\obj\Debug\Lesson1Project.csproj.CoreCompileInputs.cache
+D:\Dave's Stuff\School\CIS 262 CSHARP\Lesson1Project\Lesson1Project\obj\Debug\Lesson1Project.exe
+D:\Dave's Stuff\School\CIS 262 CSHARP\Lesson1Project\Lesson1Project\obj\Debug\Lesson1Project.pdb

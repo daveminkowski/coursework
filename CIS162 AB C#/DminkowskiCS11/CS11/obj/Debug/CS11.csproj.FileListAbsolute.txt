@@ -1,0 +1,11 @@
+C:\Users\Wedge\Google Drive\School\_Projects\CS11\bin\Debug\CS10A.exe.config
+C:\Users\Wedge\Google Drive\School\_Projects\CS11\bin\Debug\CS10A.exe
+C:\Users\Wedge\Google Drive\School\_Projects\CS11\bin\Debug\CS10A.pdb
+C:\Users\Wedge\Google Drive\School\_Projects\CS11\obj\Debug\CS11.csprojResolveAssemblyReference.cache
+C:\Users\Wedge\Google Drive\School\_Projects\CS11\obj\Debug\CS10A.frmAbout.resources
+C:\Users\Wedge\Google Drive\School\_Projects\CS11\obj\Debug\CS10A.frmBookList.resources
+C:\Users\Wedge\Google Drive\School\_Projects\CS11\obj\Debug\CS10A.Properties.Resources.resources
+C:\Users\Wedge\Google Drive\School\_Projects\CS11\obj\Debug\CS11.csproj.GenerateResource.Cache
+C:\Users\Wedge\Google Drive\School\_Projects\CS11\obj\Debug\CS11.csproj.CoreCompileInputs.cache
+C:\Users\Wedge\Google Drive\School\_Projects\CS11\obj\Debug\CS10A.exe
+C:\Users\Wedge\Google Drive\School\_Projects\CS11\obj\Debug\CS10A.pdb

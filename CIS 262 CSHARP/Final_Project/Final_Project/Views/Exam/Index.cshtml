@@ -1,0 +1,62 @@
+﻿@model Final_Project.Models.AllExamsModel
+@{
+    ViewBag.Title = "Exam Scores";
+}
+
+<h2>Exam Scores</h2>
+<a href="/Exam/Add">Add an Exam</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/Report/Index">View Grade Report</a>
+<br />
+<br />
+<table>
+    <tr>
+        <th>
+            Exam ID&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            Student ID&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            Exam Score&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            Letter Grade&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            Edit Score&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            Delete Score&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+
+    </tr>
+    @foreach (Final_Project.Models.ExamModel exam in Model.Exams)
+    {
+        <tr>
+            <td>
+                @exam.ExamId
+            </td>
+            <td>
+                @exam.StudentId
+            </td>
+            <td>
+                @exam.Score
+            </td>
+            <td>
+                @exam.LetterGrade
+            </td>
+            <td>
+                <a href="/Exam/Edit?ExamId=@exam.ExamId">Edit</a>
+            </td>
+            <td>
+                <a href="/Exam/Delete?ExamId=@exam.ExamId">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+<br />
+<div>
+<a href="@Request.UrlReferrer" class="btn btn-default btn-lg" title="Back to Previous Page">
+    <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span>
+</a>
+</div>

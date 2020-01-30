@@ -1,0 +1,6 @@
+12345678901112134,Ice Blue,2017,Cooper SE,12,25999
+987526341509178267,Electric Blue Metallic,2017,Cooper SE,10,32758.74
+456782435fgt627sh,Mellow Yellow,2016,Countryman,12,44100.00
+B562DRT52J1L1314,Astro Black Metallic,2016,Clubman,2,44349.8076
+123459867,Astro Black Metallic,2015,Cooper Works,15000,20000
+123459867,Astro Black Metallic,2015,Cooper Works,15000,25200.00

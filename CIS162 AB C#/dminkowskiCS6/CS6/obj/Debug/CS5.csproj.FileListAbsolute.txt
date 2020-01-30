@@ -1,0 +1,10 @@
+C:\Users\Wedge\Google Drive\School\_Projects\CS5\obj\Debug\CS5.csprojResolveAssemblyReference.cache
+C:\Users\Wedge\Google Drive\School\_Projects\CS5\obj\Debug\CS4.Properties.Resources.resources
+C:\Users\Wedge\Google Drive\School\_Projects\CS5\obj\Debug\CS5.csproj.GenerateResource.Cache
+C:\Users\Wedge\Google Drive\School\_Projects\CS5\obj\Debug\CS5.csproj.CoreCompileInputs.cache
+C:\Users\Wedge\Google Drive\School\_Projects\CS5\obj\Debug\CS4.exe
+C:\Users\Wedge\Google Drive\School\_Projects\CS5\obj\Debug\CS4.pdb
+C:\Users\Wedge\Google Drive\School\_Projects\CS5\bin\Debug\CS4.exe.config
+C:\Users\Wedge\Google Drive\School\_Projects\CS5\bin\Debug\CS4.exe
+C:\Users\Wedge\Google Drive\School\_Projects\CS5\bin\Debug\CS4.pdb
+C:\Users\Wedge\Google Drive\School\_Projects\CS5\obj\Debug\CS5.CS5Form.resources

@@ -1,0 +1,9 @@
+D:\Google Drive\School\_Projects\CS10B\bin\Debug\CS1.exe
+D:\Google Drive\School\_Projects\CS10B\bin\Debug\CS1.pdb
+D:\Google Drive\School\_Projects\CS10B\obj\Debug\CS10b.csprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\CS10B\obj\Debug\CS10b.frmCS10b.resources
+D:\Google Drive\School\_Projects\CS10B\obj\Debug\CS1.Properties.Resources.resources
+D:\Google Drive\School\_Projects\CS10B\obj\Debug\CS10b.csproj.GenerateResource.Cache
+D:\Google Drive\School\_Projects\CS10B\obj\Debug\CS10b.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\CS10B\obj\Debug\CS1.exe
+D:\Google Drive\School\_Projects\CS10B\obj\Debug\CS1.pdb

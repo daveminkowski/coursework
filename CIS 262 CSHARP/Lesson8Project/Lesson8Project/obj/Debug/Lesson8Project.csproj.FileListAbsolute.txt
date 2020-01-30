@@ -1,0 +1,198 @@
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\ApplicationInsights.config
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\csc.exe
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\csc.exe.config
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\csc.rsp
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\csi.exe
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\csi.exe.config
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\csi.rsp
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.AppContext.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Console.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\vbc.exe
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\vbc.exe.config
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\vbc.rsp
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Lesson8Project.dll.config
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Lesson8Project.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Lesson8Project.pdb
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Antlr3.Runtime.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\EntityFramework.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.AI.Web.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Newtonsoft.Json.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Data.SQLite.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Data.SQLite.EF6.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Data.SQLite.Linq.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.Helpers.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.Mvc.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.Optimization.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.Razor.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.WebPages.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\WebGrease.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\EntityFramework.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Data.SQLite.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Data.SQLite.dll.config
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.Helpers.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.Mvc.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.Optimization.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.Razor.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.WebPages.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Antlr3.Runtime.pdb
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Newtonsoft.Json.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\bin\Microsoft.AI.Web.xml
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\obj\Debug\Lesson8Project.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\obj\Debug\Lesson8Project.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\obj\Debug\Lesson8Project.dll
+C:\Users\Dave\Desktop\Lesson8Project\Lesson8Project\obj\Debug\Lesson8Project.pdb
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\ApplicationInsights.config
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\csc.exe
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\csc.exe.config
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\csc.rsp
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\csi.exe
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\csi.exe.config
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\csi.rsp
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.AppContext.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Console.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Diagnostics.Process.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.IO.Compression.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.IO.FileSystem.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.IO.Pipes.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.AccessControl.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.Claims.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Threading.Thread.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.ValueTuple.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Xml.XPath.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\vbc.exe
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\vbc.exe.config
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\vbc.rsp
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\VBCSCompiler.exe
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Lesson8Project.dll.config
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Lesson8Project.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Lesson8Project.pdb
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Antlr3.Runtime.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\EntityFramework.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\EntityFramework.SqlServer.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.AI.Web.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.ApplicationInsights.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Newtonsoft.Json.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Data.SQLite.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Data.SQLite.EF6.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Data.SQLite.Linq.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.Helpers.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.Mvc.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.Optimization.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.Razor.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.WebPages.Deployment.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.WebPages.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.WebPages.Razor.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\WebGrease.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\EntityFramework.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\EntityFramework.SqlServer.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Data.SQLite.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Data.SQLite.dll.config
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.Helpers.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.Mvc.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.Optimization.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.Razor.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.WebPages.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.WebPages.Deployment.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\System.Web.WebPages.Razor.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Antlr3.Runtime.pdb
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Newtonsoft.Json.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.ApplicationInsights.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\bin\Microsoft.AI.Web.xml
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\obj\Debug\Lesson8Project.csprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\obj\Debug\Lesson8Project.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\obj\Debug\Lesson8Project.dll
+D:\Google Drive\School\_Projects\Lesson8Project\Lesson8Project\obj\Debug\Lesson8Project.pdb

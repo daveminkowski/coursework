@@ -1,0 +1,7 @@
+D:\Google Drive\School\_Projects\Lesson4Project\Lesson4Project\bin\Debug\Lesson4Project.exe.config
+D:\Google Drive\School\_Projects\Lesson4Project\Lesson4Project\bin\Debug\Lesson4Project.exe
+D:\Google Drive\School\_Projects\Lesson4Project\Lesson4Project\bin\Debug\Lesson4Project.pdb
+D:\Google Drive\School\_Projects\Lesson4Project\Lesson4Project\obj\Debug\Lesson4Project.csprojResolveAssemblyReference.cache
+D:\Google Drive\School\_Projects\Lesson4Project\Lesson4Project\obj\Debug\Lesson4Project.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\_Projects\Lesson4Project\Lesson4Project\obj\Debug\Lesson4Project.exe
+D:\Google Drive\School\_Projects\Lesson4Project\Lesson4Project\obj\Debug\Lesson4Project.pdb

@@ -1,0 +1,12 @@
+C:\Users\Wedge\Google Drive\School\_Projects\PayrollCalculator\bin\Debug\PayrollCalculator.exe.config
+C:\Users\Wedge\Google Drive\School\_Projects\PayrollCalculator\bin\Debug\PayrollCalculator.exe
+C:\Users\Wedge\Google Drive\School\_Projects\PayrollCalculator\bin\Debug\PayrollCalculator.pdb
+C:\Users\Wedge\Google Drive\School\_Projects\PayrollCalculator\bin\Debug\PayrollCalculator.xml
+C:\Users\Wedge\Google Drive\School\_Projects\PayrollCalculator\obj\Debug\PayrollCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\Wedge\Google Drive\School\_Projects\PayrollCalculator\obj\Debug\PayrollCalculator.frmPayrollCalculator.resources
+C:\Users\Wedge\Google Drive\School\_Projects\PayrollCalculator\obj\Debug\PayrollCalculator.Resources.resources
+C:\Users\Wedge\Google Drive\School\_Projects\PayrollCalculator\obj\Debug\PayrollCalculator.vbproj.GenerateResource.Cache
+C:\Users\Wedge\Google Drive\School\_Projects\PayrollCalculator\obj\Debug\PayrollCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Wedge\Google Drive\School\_Projects\PayrollCalculator\obj\Debug\PayrollCalculator.exe
+C:\Users\Wedge\Google Drive\School\_Projects\PayrollCalculator\obj\Debug\PayrollCalculator.xml
+C:\Users\Wedge\Google Drive\School\_Projects\PayrollCalculator\obj\Debug\PayrollCalculator.pdb

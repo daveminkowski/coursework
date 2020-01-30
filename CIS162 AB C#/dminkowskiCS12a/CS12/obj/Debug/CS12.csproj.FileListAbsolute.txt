@@ -1,0 +1,9 @@
+C:\Users\Wedge\Google Drive\School\_Projects\CS12\obj\Debug\CS12.csprojResolveAssemblyReference.cache
+C:\Users\Wedge\Google Drive\School\_Projects\CS12\obj\Debug\CS12.frmCS12.resources
+C:\Users\Wedge\Google Drive\School\_Projects\CS12\obj\Debug\CS12.Properties.Resources.resources
+C:\Users\Wedge\Google Drive\School\_Projects\CS12\obj\Debug\CS12.csproj.GenerateResource.Cache
+C:\Users\Wedge\Google Drive\School\_Projects\CS12\obj\Debug\CS12.csproj.CoreCompileInputs.cache
+C:\Users\Wedge\Google Drive\School\_Projects\CS12\bin\Debug\CS12.exe
+C:\Users\Wedge\Google Drive\School\_Projects\CS12\bin\Debug\CS12.pdb
+C:\Users\Wedge\Google Drive\School\_Projects\CS12\obj\Debug\CS12.exe
+C:\Users\Wedge\Google Drive\School\_Projects\CS12\obj\Debug\CS12.pdb

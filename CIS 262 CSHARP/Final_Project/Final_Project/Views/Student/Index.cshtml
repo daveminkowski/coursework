@@ -1,0 +1,68 @@
+﻿@model Final_Project.Models.AllStudentsModel
+@{
+    ViewBag.Title = "Students";
+}
+
+<h2>View Students</h2>
+<a href="/Student/Add">Add a Student</a>
+<br />
+<br />
+<table>
+    <tr>
+        <th>
+            Student Id&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            First Name&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            Last Name&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            View Exams&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            Add Exam&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            Edit Student&nbsp;&nbsp;&nbsp;&nbsp;
+        </th>
+        <th>
+            Delete Student
+        </th>
+    </tr>
+    @foreach (Final_Project.Models.StudentModel student in Model.Students)
+    {
+        <tr>
+            <td>
+                @student.StudentId
+            </td>
+            <td>
+                @student.FirstName
+            </td>
+            <td>
+                @student.LastName
+            </td>
+            <td>
+                <a href="/Exam?StudentId=@student.StudentId">View</a>
+            </td>
+            <td>
+                <a href="/Exam/Add?StudentId=@student.StudentId">Add Exam</a>
+            </td>
+            <td>
+                <a href="/Student/Edit?StudentId=@student.StudentId">Edit</a>
+            </td>
+            <td>
+                <a href="/Student/Delete?StudentId=@student.StudentId">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<br />
+<div>
+    <a href="@Request.UrlReferrer" class="btn btn-default btn-lg" title="Back to Previous Page">
+        <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span>
+    </a>
+</div>
+
