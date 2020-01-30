@@ -1,3 +1,3 @@
 # coursework
 
-Repo for past school assignments
+Repo for past assignments and coursework.
